@@ -7,8 +7,8 @@
 > Please note, this is not CodePlex
 
 # Websites
-- Homepage: [https://codepex.top](https://codepex.top)
-- Docs: [https://docs.codepex.top](https://docs.codepex.top)
+- Homepage: [https://codpex.top](https://codpex.top)
+- Docs: [https://docs.codpex.top](https://docs.codpex.top)
 
 # Projects
 - S-AI Music
@@ -16,5 +16,4 @@
 - Stars AI Co-pilot
 
 # Get in touch with us
-- E-Mail: [support@codepex.top](mailto://support@codepex.top)
-- Discord: [https://discord.gg/y9rTtvUzsB](https://discord.gg/y9rTtvUzsB)
+- E-Mail: [support@codepex.top](mailto://support@codpex.top)
